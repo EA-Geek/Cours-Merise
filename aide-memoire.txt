@@ -28,3 +28,13 @@ Démarche de modélisation d'un SI
 
 4/ Test 
 
+La Méthode MERISE utilise trois découpages sur quatre niveaux
+
+## 3 Découpages
+----------------
+
+1. Communication    : Flux d'information et mesages entre systèmes
+2. Traitement       : Traitement des messages (à la réception ou à l'émission)
+3. Données          : Stures de mémorisation des informations (tables et chants)
+
+ 
