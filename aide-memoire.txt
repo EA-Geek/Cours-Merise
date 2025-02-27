@@ -1,0 +1,30 @@
+Formation MERISE
+----------------- 
+
+Par definition, MERISE est definie comme etant une methode d'etude et de 
+realisation informatique des systemes d'entreprise
+
+###Fonction de systemes d'information
+-------------------------------------- 
+
+- Collecte de l'information
+- Memorisation de l'information
+- Traitement de l'information 
+- Diffusion de l'information
+
+Démarche de modélisation d'un SI
+--------------------------------
+
+1/ Analyse :    Etude de l'existant
+                Expression des besoins (C que le client attent à la fin de l'App)
+                Définition des limites 
+                Identifier les entités et les types d'intéractions
+
+2/ Conception : Créer des modèles qui repésentent tous les besoins 
+
+3/ Programmation :  Implémenter une base de donnée
+                    Choisir le SGBD
+                    Choisir le langage de programmation
+
+4/ Test 
+
