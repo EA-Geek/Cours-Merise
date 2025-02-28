@@ -1,0 +1,4 @@
+# Modèle créé le : Fri Feb 28 16:39:11 CAT 2025 
+Eleve (Id_Eleve, Nom_Eleve, Prenom_Eleve, Date_naissance_Eleve) 
+Devoir (Id_Devoir, Date_Entite_2, Cours_Devoir) 
+Passer (Id_Eleve, Id_Devoir, Note_Passer) 
