@@ -1,8 +1,8 @@
 Formation MERISE
 ----------------- 
 
-Par definition, MERISE est definie comme etant une methode d'etude et de 
-realisation informatique des systemes d'entreprise
+Par definition, MERISE est definie comme etant une Methode d'Etude et de 
+Realisation informatique des Systemes d'Entreprise
 
 ###Fonction de systemes d'information
 -------------------------------------- 
@@ -35,6 +35,25 @@ La Méthode MERISE utilise trois découpages sur quatre niveaux
 
 1. Communication    : Flux d'information et mesages entre systèmes
 2. Traitement       : Traitement des messages (à la réception ou à l'émission)
-3. Données          : Stures de mémorisation des informations (tables et chants)
+3. Données          : Stuctures de mémorisation des informations (tables et chants)
 
- 
+## 4 Decoupages 
+----------------
+
+1. Conceptuel :     - Etude des fonctions et objectifs de l'entreprise
+                    - Que fait l'entreprise?
+
+2. Organisationnel : - Etude de l'Organisation
+                     - Aui fait quoi ?
+
+3. Logique :    - Informatique non specifique
+                - Sans choix de langage de programmation, ni de SGBD
+                - Avec l'aire de quoi ?
+
+4. Physique :   - Choix de l'outil informatique
+                - SGBD et systeme d'exploitation ...
+                - Avec quoi ou comment ?
+
+Modele Conceptuel de Donnees <MCD>
+-----------------------------------
+
